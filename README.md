@@ -46,7 +46,7 @@ Detaylar için `LICENSE` dosyasına bakınız.
 ## Bağlantılar
 
 Scaty Desktop:  
-yok
+https://drive.google.com/file/d/1pkvwRK2lh4UMpn0gReqTY0KHBemJTu7Z/view?usp=sharing
 
 Dokümantasyon:  
 https://lattesiber.notion.site/new-scaty-Documentation-2b34c372db1c809b880fcdc7336b5bcd
